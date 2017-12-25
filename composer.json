@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-0": {
-      "Necipallef": "src"
+      "DateTimeHandler\\": "src/DateTimeHandler"
     }
   }
 }
