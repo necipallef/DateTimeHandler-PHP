@@ -1,5 +1,7 @@
 <?php
 
+namespace DateTimeHandler;
+
 class DateTimeHandler
 {
 
