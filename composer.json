@@ -1,0 +1,26 @@
+{
+  "name": "necipallef/datetime-handler",
+  "type": "library",
+  "description": "DateTime Handler",
+  "keywords": [
+    "date",
+    "time",
+    "timestamp"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Allefbasi Necip",
+      "email": "necipallef@gmail.com",
+      "homepage": "https://github.com/necipallef"
+    }
+  ],
+  "require": {
+    "php": "^5.0.0",
+  },
+  "autoload": {
+    "psr-0": {
+      "Necipallef": "src"
+    }
+  }
+}
